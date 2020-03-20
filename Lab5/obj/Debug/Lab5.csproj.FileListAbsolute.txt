@@ -1,0 +1,11 @@
+C:\Users\hachi\source\repos\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\hachi\source\repos\Lab5\bin\Debug\Lab5.exe
+C:\Users\hachi\source\repos\Lab5\bin\Debug\Lab5.pdb
+C:\Users\hachi\source\repos\Lab5\bin\Debug\EntityFramework.dll
+C:\Users\hachi\source\repos\Lab5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hachi\source\repos\Lab5\bin\Debug\EntityFramework.xml
+C:\Users\hachi\source\repos\Lab5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hachi\source\repos\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+C:\Users\hachi\source\repos\Lab5\obj\Debug\Lab5.exe
+C:\Users\hachi\source\repos\Lab5\obj\Debug\Lab5.pdb
