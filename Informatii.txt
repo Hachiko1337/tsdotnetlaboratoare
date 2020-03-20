@@ -1,0 +1,1 @@
+Commit-ul "Modified Lab2" este de fapt o modificare la Lab3, laboratorul cu EF Design First.
