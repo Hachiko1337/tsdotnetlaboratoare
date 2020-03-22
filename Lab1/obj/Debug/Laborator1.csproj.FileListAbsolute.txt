@@ -1,0 +1,6 @@
+C:\Users\hachi\source\repos\Laborator1\obj\Debug\Laborator1.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\Laborator1\bin\Debug\Laborator1.exe.config
+C:\Users\hachi\source\repos\Laborator1\bin\Debug\Laborator1.exe
+C:\Users\hachi\source\repos\Laborator1\bin\Debug\Laborator1.pdb
+C:\Users\hachi\source\repos\Laborator1\obj\Debug\Laborator1.exe
+C:\Users\hachi\source\repos\Laborator1\obj\Debug\Laborator1.pdb
