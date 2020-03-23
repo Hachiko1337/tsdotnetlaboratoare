@@ -1,0 +1,13 @@
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\PostComment.dll
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\PostComment.pdb
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\PostComment.dll.config
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\hachi\source\repos\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\hachi\source\repos\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\hachi\source\repos\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\hachi\source\repos\ObjectWCF\obj\Debug\ObjectWCF.pdb
